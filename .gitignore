@@ -1,0 +1,37 @@
+# Ignore LTspice backup, autosave, and generated files
+*.raw
+*.log
+*.net
+*.asc.bak
+*.plt
+*.err
+*.prb
+*.sav
+*.bck
+*.bkp
+*.tmp
+*.lvh
+*.lst
+*.sym
+*.lib.bak
+*.ini
+*.meas
+*.opj
+*.pwr
+*.swp
+*.run
+*.txt.bak
+*.wav
+*.vcd
+*.cdx
+*.db
+*.drl
+*.gbr
+*.schdoc
+*.zip
+
+# Ignore user-specific files
+*.bak
+*~
+.DS_Store
+Thumbs.db
